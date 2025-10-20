@@ -1,1 +1,1 @@
-# neuroslim
+# NeuroSlim: homepage
