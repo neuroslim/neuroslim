@@ -1,0 +1,54 @@
+Motto: knowledge is the key
+
+
+=============================
+APPUNTI ARCHITETTURA (ITA)
+=============================
+
+1. Se un informazione non è leggibile per il modello viene ignorata, quindi nemmeno elaborata.
+
+2. Se una minima informazione uguale è stata già campionata non è necessaria aggiungerla nella memoria.
+   Caso mai aggiungiamo, se presente, una nuova associazione. Oppure andiamo a fare un get delle associazioni.
+
+3. Non tutti gli input-agent hanno un output-agent di risposta. Per esempio il corpo umano ha vari input-agent, però per ciascun non ha un singolo output-agent.
+
+4. Il modello potrebbe sviluppare "coscienza" in caso di concentrazioni di informazioni collegamenti in modo coerenti tra di loro. Meno informazioni = minor stato di "coscienza"
+
+5. Il peso della rete neurale è dinamico, cambia di continuo in base alle informazioni che arrivano e alla intensità (?)
+
+
+=============================
+APPUNTI CODING (ITA)
+=============================
+
+1. Non è necessario avere un timestamp per capire quale informazione ha la priorità,
+   ma bisogno vedere le informazioni più facilmente correlabili.
+   Come per esempio quando leggiamo un libro non associamo le informazioni che vengono lette per prima,
+   ma quelle che hanno un valore correlativo con qualcos'altro che abbiamo letto o immagazzinato in precedenza.
+
+2. Nell'oggetto Association potrei mettere in qualche modo dei puntatori che indicano dove punti il prossimo minimo campionato.
+
+3. Dovrei implementare una sorta di algoritmo di Dijistra in grado di tracciare il percorso che ha senso ed "associativo",
+   e deve essere in grado di passare lo stesso in caso un percorso associativo sia interrotto
+
+4. Ad ogni colpo minimo di "clock", associare tutte le informazioni minime campionabili in quel dato momento e metterle nella Buffer Memory.
+
+5. Per testare il modello, potrei utilizzare un HashMap, con tutti i minimi campionabili caratteri testuali.
+
+6. Si passa ad un prossimo colpo di clock, quando quello precedente ha finito di completare la associazioni.
+
+
+=============================
+DUBBI (ITA)
+=============================
+
+1. Quando ricevo ogni singolo input, devo andare a visionare tutte le associazioni in memoria esistenti?
+
+2. Come gestisco le associazioni duplicate in ingresso?
+
+3. Vengono attivate tutte le aree della conoscenza per risolvere tipo un problema?
+   Oppure il delay che hanno gli umani per risolvere un problema è dovuto che è necessario aprire tutti i collegamenti neurali?
+
+4. Una volta risposto al problema oppure aver risposto all'input appena ricevuto, che succede? Esiste una fine all'elaborazione?
+
+

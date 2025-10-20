@@ -1,0 +1,284 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="nZuKNwKg5GLubK1jZada">
+    <mxGraphModel dx="2887" dy="2226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-1" target="f7gwcDW4hTQdyQr3YfNT-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-1" target="f7gwcDW4hTQdyQr3YfNT-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="360" />
+              <mxPoint x="340" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-1" target="f7gwcDW4hTQdyQr3YfNT-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="380" />
+              <mxPoint x="320" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;AMBIENTE ESTERNO&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="250" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="130" width="530" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SISTEMA DI COGNIZIONE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="90" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-6" target="f7gwcDW4hTQdyQr3YfNT-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="290" />
+              <mxPoint x="610" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-6" value="INPUT AGENT 1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-7" target="f7gwcDW4hTQdyQr3YfNT-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="320" />
+              <mxPoint x="580" y="320" />
+              <mxPoint x="580" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-7" value="INPUT AGENT 2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-8" target="f7gwcDW4hTQdyQr3YfNT-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="380" />
+              <mxPoint x="580" y="380" />
+              <mxPoint x="580" y="317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-8" value="INPUT AGENT X" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-12" value="OUTPUT&lt;br&gt;AGENT 1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-13" target="f7gwcDW4hTQdyQr3YfNT-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-13" value="OUTPUT&lt;br&gt;AGENT 2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="580" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-14" value="OUTPUT AGENT X" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.688;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-12" target="f7gwcDW4hTQdyQr3YfNT-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.358;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="574" as="sourcePoint" />
+            <mxPoint x="95.92000000000007" y="446" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="745" y="634" />
+              <mxPoint x="96" y="634" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-31" target="f7gwcDW4hTQdyQr3YfNT-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-31" target="f7gwcDW4hTQdyQr3YfNT-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="390" />
+              <mxPoint x="660" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-31" target="f7gwcDW4hTQdyQr3YfNT-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="435" />
+              <mxPoint x="745" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-31" value="MEMORIA BUFFER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="280" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-33" value="MEMORIA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="220" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-43" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="370" as="sourcePoint" />
+            <mxPoint x="240" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-44" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;UN SINGOLO &lt;b&gt;INPUT AGENT&lt;/b&gt; CORRISPONDE ALLA SINGOLA INFORMAZIONE CHE E&#39; IN GRADO DI APPRENDERE. ES (FOTONI, FREQUENZA SONORA)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="160" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-47" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="sourcePoint" />
+            <mxPoint x="470" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-48" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;UN SINGOLO &lt;b&gt;OUTPUT&amp;nbsp;AGENT&lt;/b&gt;&amp;nbsp;AD UNA SINGOLA TIPOLOGIA DI INFORMAZIONE CHE E&#39; IN GRADO DI COMUNICARE (ES: EMETTERE UN SUONO)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="730" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-53" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;LA MEMORIA BUFFER&lt;/b&gt;&amp;nbsp;(CHE E&#39; IN COLLEGAMENTO CON TUTTI GLI AGENT) VIENE USATA COME MEMORIA EFFETTIVA,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;VENGONA INSERITE TUTTE LE NUOVE INFORMAZIONI PROVENIENTI DALL&#39;AMBIENTE ESTERNO E CONTIENE ANCHE LE &lt;b style=&quot;&quot;&gt;ASSOCIABLE &lt;/b&gt;CHE PRENDE DALLA MEMORIA FINALE.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;LA MEMORIA DI BUFFER, SE RIEMPITA AL MASSIMO, VIENE SVUOTATA PRENDENDO IN CONSIDERAZIONE UN PARAMETRO, LA PRIORITA&#39;. VENGONO ELIMINATE LE &lt;b style=&quot;&quot;&gt;ASSOCIABLE &lt;/b&gt;CHE HANNO UN VALORE PIU&#39; BASSO, FINO A RAGGIUGIMENTO A VALORE DI TOLLERENZA MINIMA DI SPAZIO LIBERO.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="-80" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-54" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="270" as="sourcePoint" />
+            <mxPoint x="910" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-58" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="430" as="sourcePoint" />
+            <mxPoint x="1110" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-66" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.025;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="f7gwcDW4hTQdyQr3YfNT-33" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="700" y="302.7619148936169" as="sourcePoint" />
+            <mxPoint x="900" y="277.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-72" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;CONTIENE SOLTANTO LE &lt;b&gt;ASSOCIABLE&lt;/b&gt;, E LE INVIA ALLA MEMORIA DI BUFFER QUANDO SERVE&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="550" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-73" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="140" as="sourcePoint" />
+            <mxPoint x="1290" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-75" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="410" as="sourcePoint" />
+            <mxPoint x="1280" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PS:&amp;nbsp; &amp;nbsp;LA VELOCITA&#39; EFFETTIVA DI RISPOSTA AD UN EVENTO DIPENDERA&#39; DA QUANTO TEMPO CI METTERA&#39; A TROVARE &lt;b&gt;L&#39;ASSOCIABLE&lt;/b&gt; DI RIFERIMENTO.&lt;br&gt;&lt;br&gt;QUEST&#39;ULTIMA VIENE MESSA ALLA FINE O ALL&#39;INIZIO IN BASE A QUANTE VOLTE E&#39; STATA RICHIESTA. VIENE USATO IL PARAMETRO &quot;&lt;b&gt;PRIORITA&lt;/b&gt;&#39;&quot; PER CAPIRLO, A FINE GIORNATA AD ESEMPIO AVVIENE UN &lt;b&gt;DEBUG &lt;/b&gt;DI TUTTO CIO&#39; CHE E&#39; PRESENTE NELLA &lt;b&gt;MEMORIA DI BUFFER&lt;/b&gt; E VENGONO MODIFICATE LA POSIZIONE DELL&#39;ASSOCIABLE ALL&#39;INTERNO DELLA &lt;b&gt;MEMORIA&lt;/b&gt;&lt;br&gt;&lt;br&gt;NON ESISTE UN &lt;b&gt;CLOCK &lt;/b&gt;DI &quot;CAMPIONAMENTO&quot; ED ESECUZIONE ALL&#39;INTERNO DELL&#39;ARCHITETTURA. QUEST&#39;UTLIMO DIPENDERA&#39; DA &lt;b&gt;VALORI STRUTTURALI&lt;/b&gt; (ESEMPIO CLOCK CPU, LINGUAGGIO DI PROGRAMMAZIONE)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="285" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PER GESTIRE I DUPLICATI, MOLTO SEMPLICEMENTE, VENGONO IGNORATE LE POSSIBILI CREAZIONI DI ASSOCIABLE UGUALI&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="450" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-78" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;PROBABILMENTE NON SERVE, BASTA SOLTANTO FARE IN MODO CHE l&#39;INFORMAZIONE VENGA AGGIUNTA SE CREA NUOVA ASSOCIAZIONE, SENNO&#39; RIMANE NELLA MEMORIA TEMPORANEA&lt;/font&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="390" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-79" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="500" as="sourcePoint" />
+            <mxPoint x="1800" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-80" value="APPUNTO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-81" value="getAssociable(?, ?, ...)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" parent="1" vertex="1">
+          <mxGeometry x="710" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-82" value="return Associable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" parent="1" vertex="1">
+          <mxGeometry x="710" y="285" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-84" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="340" as="sourcePoint" />
+            <mxPoint x="860" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;LE ASSOCIAZIONI AVVENGONO TRA &lt;b&gt;INPUT AGENT &lt;/b&gt;ED &lt;b&gt;OUTPUT AGENT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="710" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="f7gwcDW4hTQdyQr3YfNT-85" target="f7gwcDW4hTQdyQr3YfNT-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-88" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="740" as="sourcePoint" />
+            <mxPoint x="1150" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-89" value="APPUNTO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f7gwcDW4hTQdyQr3YfNT-88" vertex="1" connectable="0">
+          <mxGeometry x="-0.0552" y="13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-90" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;LE ASSOCIAZIONI DOVREBBERO AVVENIRE SOLTANTO TRA AGENT SIMILI CON LE STESSE PRIORITà DI RISPOSTA/RICEZIONE.&lt;br&gt;&lt;br&gt;DEVO CAPIRE SE PUO&#39; AVVENIRE UNA ASSOCIABLE TRA DIVERSI INPUT/AGENT NON UGUALI&lt;br&gt;&lt;/i&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="800" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f7gwcDW4hTQdyQr3YfNT-91" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 19px;&quot;&gt;X MICC: DEVO CAPIRE COME DEFINIRE IL CONCETTO DI &quot;ASSOCIABLE&quot;. E CAPIRE COSA SUCCEDE SE UNA SINGOLA INFORMAZIONE VIENE PERSA.&amp;nbsp;&lt;br&gt;&lt;br&gt;SECONDO ME NIENTE, VIENE PERSO IL COLLEGAMENTO, QUINDI AVREMO UN VUOTO MENTALE, MA IL RESTO RIMANE INTATTO E NON VINCOLATO DA NESSUNA ASSOCIABLE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="620" width="550" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PERIFERICO&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="340" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CENTRALE&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="675" y="180" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;FRASE GENERATA PER TEST:&lt;br&gt;&lt;br&gt;PROBABILMENTE DEVE GESTIRE COME PARAMETRO [], OGNI SINGOLO INPUT AL MINIMO GESTIBILE DAGLI AGENT&lt;br&gt;&lt;br&gt;PER FARE DELLE PROVE MI LIMITO AD USARE SOLTANTO IL TESTO&lt;br&gt;&lt;br&gt;IN QUESTO CASO USEREMO COME SENSIBILITA&#39; MINIMO L&#39;UTF-8&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="1050" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--8" value="Frase di esempio.         ||     Questa è un altra frase di esempio" style="text;whiteSpace=wrap;strokeWidth=18;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="460" y="1110" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="960" as="sourcePoint" />
+            <mxPoint x="500" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Esempio&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S5PtbbGTLoT8_omnZW4--10" vertex="1" connectable="0">
+          <mxGeometry x="-0.089" relative="1" as="geometry">
+            <mxPoint x="4" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--12" value="[F][r][a][s][e][][d][i][e][s][e][m][p][i][o][.]" style="text;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1230" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1170" as="sourcePoint" />
+            <mxPoint x="545" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;OGNI SINGOLO INPUT AGENT CAMPIONA IL MINIMO PERCETTIBILE IN BASE A QUEL CHE RICEVE, NOI TROVIAMO IL SUO MINIMO.&amp;nbsp;&lt;br&gt;&lt;br&gt;INPUT AGENT DEPUTATO AL TESTO, ESEMPIO: &quot;CIAO&quot; ---&amp;gt; MINIMO CAMPIONAMENTO: &quot;[C][I][A][O]&quot;&lt;br&gt;&lt;br&gt;AVREI POTUTO PRENDERE COME MINIMO IN SE LA FORMA DEL CARATTERE. MA SICCOME NON E&#39; IL SUO COMPITO NON PUO&#39; FARLO. ESEMPIO POTREBBE ESSERNE IDONE GLI INPUT AGENT DEPUTATI ALLA LETTURA DEI FOTONI&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="1420" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;INVECE GLI OUTPUT AGENT SONO DEPUTATI AD EFFETTUARE LA RISPOSTA.&lt;br&gt;&lt;br&gt;PENSO AVVENGANO CHE OGNI OUTPUT AGENT RISPONDE SE L&#39;INFORMAZIONE PROVIENE DA UN INPUT AGENT?&lt;br&gt;&lt;br&gt;OPPURE DOTARLI DI UNA CAPACITA&#39; LA QUALE VIENE REGISTRATO ANCHE DA DOVE VIENE L&#39;INFORMAZIONE, CIOE&#39; DA QUALE INPUT AGENT?&lt;br&gt;&lt;br&gt;OPPURE POSSO FARE CHE L&#39;INFO VIENE RICONOSCIUTO IN AUTOMATICO DI QUALE TIPOLOGIA E&#39;, SICCOME DA UN INPUT AGENT DEVE ESISTERE UN OUTPUT AGENT, QUINDI SAPPIAMO GIA&#39; CHE DATO SARA&#39;&lt;br&gt;&lt;br&gt;QUINDI VERRANNO ATTIVATI TUTTI GLI OUTPUT AGENT IN QUESTIONE IN BASE SE E&#39; AVVENUTA UNA ASSOCIAZIONE TRA I VARI SIMILI INPUT AGENT&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="1300" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DURANTE IL CAMPIONAMENTO, CIOE&#39; UNA SORTA DI CLOCK,&amp;nbsp;&lt;br&gt;&lt;br&gt;VENGONO ATTIVATI TUTTI GLI INPUT AGENT POSSIBILI.&lt;br&gt;&lt;br&gt;QUINDI VERRA&#39; FATTA L&#39;ASSOCIAZIONE TRA LE INFO CHE ARRIVANO IN QUEL MOMENTO.&lt;br&gt;&lt;br&gt;POI IN UN SECONDO MOMENTO LE ASSOCIAZIONI INUTILI VERRANNO ELIMINATE DALLA MEMORIA, CIOE&#39; NON VERRA&#39; REGISTRATA A FINE GIORNATA&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1780" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--20" value="&lt;font color=&quot;#ff2929&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;TEST EFFETTIVO SE IL MODELLO FUNZIONA: DEVE IMPARARE A FARE I CALCOLI BASILIARI DI MATEMATICA USANDO LE PROPRIETA&#39; DELL&#39;ASSOCIAZIONE.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-60" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S5PtbbGTLoT8_omnZW4--26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="1830" as="sourcePoint" />
+            <mxPoint x="1260" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
