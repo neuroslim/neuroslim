@@ -61,3 +61,5 @@ site/
 
 .bkp
 run.sh
+
+**/.DS_Store
