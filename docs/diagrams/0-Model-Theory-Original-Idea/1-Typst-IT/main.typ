@@ -1,13 +1,5 @@
 #import "@preview/charged-ieee:0.1.2": ieee
 
-#let summary_model_img = read("./img/summary.drawio.svg")
-#let dijistra = read("./img/dijistra.svg")
-
-#let input_agent = read("./img/input-agent.drawio.svg")
-#let input_agent_handler = read("./img/input-agent-handler.drawio.svg")
-
-#let neuron = read("./img/neuron.drawio.svg")
-
 #show: ieee.with(
   title: [Un possibile modello di 'mente' artificiale],
   abstract: [
@@ -16,7 +8,7 @@
 )
 
 #figure(
-  image.decode(summary_model_img, width: 120%),
+  image("./img/summary.svg", width: 120%),
   caption: [
     Riepilogo del modello (non ancora definitivo)
   ],
@@ -31,7 +23,7 @@
 + Un collegamento sinpatico che non si presenta mai, come vengono gestite? Magari rimane, ma diminuisce l'importanza mediamente la diminuizione delle sinapsi?
    + Probabile risposta: diminuiscono le sinapsi che riguarda il ricordo, dopo un tot x tempo. Nel caso del nostro modello andremo a diminiuire il 'peso'.
 
-+ La ragione per cui nel nostro cervello vengono scartate gli input comuni e sempre presenti, come per esempio se indossiamo un vestito, la respirazione, è che magari sono dati di bassa intensità (peso = zero), oppure le informazioni che coinvolgono il nostro quotidiano, una volta saldata diventono di norma di bassa intensità perchè il nostro cervello le ha 'saldate'?
++ La ragione per cui nel nostro cervello vengono scartate gli input comuni e sempre presenti, come per esempio se indossiamo un vestito, la respirazione, è che magari sono dati di bassa intensità (peso = zero), oppure le informazioni che coinvolgono il nostro quotidiano, una volta saldata diventono di norma di bassa intensità perché il nostro cervello le ha 'saldate'?
 
 + Cosa avviene nel cervello quando riceve un input che ha già creato un collegamento sinaptico, vengono eccitate le sinapsi più vicini/forti?
 
@@ -69,7 +61,7 @@
 == *Lo pseudo algoritmo di Dijistra*
 
 #figure(
-  image.decode(dijistra, width: 120%),
+  image("./img/dijistra.svg", width: 120%),
   caption: [
     L'algoritmo di Dijistra
   ],
@@ -78,7 +70,7 @@
 
 Sicuramente il modello dovrà possedere un implementazione imita il funzionamento dell'algoritmo di Dijistra. *Si occuperà:*
   + assegnare i pesi iniziali, e di cambiarli man mano, in base all loro importanza.
-  + trovare sempre il percorso migliore coerente associativamente e più vicino, anche in caso venga persa una piccola parte del collegamento.
+  + trovare sempre il percorso migliore coerente associativo e più vicino, anche in caso venga persa una piccola parte del collegamento.
   + partire da una pos A ed arrivare una Z, cioè alla sua fine, deve capire quando smettere di sollecitare la memoria del modello.
   + creare l'associazione sia spaziale che temporale (*cioè che avvenuta nello stesso colpo di clock, si può implementare mettendo una sorta di Array su ogni neurone?*)
   + collegare un nuova informazione che però ha un legame con un altra già campionata e definire il relativo peso.
@@ -87,7 +79,7 @@ Sicuramente il modello dovrà possedere un implementazione imita il funzionament
 == *Input Agent*
 
 #figure(
-  image.decode(input_agent, width: 75%),
+  image("./img/input-agent.drawio.svg", width: 75%),
   caption: [
     Un esempio di input agent testuale, notiamo che segmenta il minimo dei dati che può leggere.
   ],
@@ -102,7 +94,7 @@ Ogni input agent può averne una sotto categoria, esempio: Input Agent Pixels --
 == *Il gestore degli input: Input Agent Handler*
 
 #figure(
-  image.decode(input_agent_handler, width: 100%),
+  image("./img/input-agent-handler.drawio.svg", width: 100%),
   caption: [
     Esempio di vari input agent che portano le informazioni all'Handler. Rimane ancora nel limbo come codificare in modo univoco ed associare le varie informazioni ricevute in un dato clock.
   ],
@@ -120,7 +112,7 @@ Una delle parti centrali del modello, dovrà gestire le informazioni che gli arr
 == *Il neurone*
 
 #figure(
-  image.decode(neuron, width: 80%),
+  image("./img/neuron.drawio.svg", width: 80%),
   caption: [
     Esempio di un nuovo neurone generato, con il suo input agent di creazione. con un collegamento 'sinaptico'
   ],
